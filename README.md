@@ -83,4 +83,4 @@ pytest            # optional: run unit tests
 Gridded data ingestion, station-quality flags, exceedance-return-period estimates, optional satellite-derived precipitation as a *separate, clearly labelled* data source, report export.
 
 ## Author
-Your name - M.Sc. Computer Science. Replace this line with your details.
+Harini R - M.Sc. Computer Science.
